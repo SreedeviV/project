@@ -1,0 +1,45 @@
+<html>
+<head><title>Sreedevi</title></head>
+<body bgcolor="a09def">
+<h1 Style="color:cyan"><center>SREEDEVI</center></h1>
+<p><left>532A sreehari nivas<br>
+Thattankulam,pandian nagar,palani.<br>
+<u>email id:sreedevi2996@gmail.com</u></left></p>
+<h2 Style="color:blue"><b>Objective</b><br></h2>
+<p>To be involved in work where I can utilize my skills creativelywith system that effectively contributes to the growth of organization.</p>
+<h2 Style="color:blue">Educational qualification</h2>
+<p><li>SSLC in St.Pauls Matric School,Palani with 94%</li><br>
+<li>HSC in Akshaya Academy Matric.Hr.sec.School,Palani with 88.6%</li><br>
+<li>B.E ECE in K.S.R.College of Engineering with 8.21 till sixth semester</li>.
+<h2 Style="color:blue">Strength</h2>
+<p><li>Hard working</li><br>
+<li>Adaptability</li></br>
+<h2 Style="color:blue">Skills</h2>
+<p>C,C++</p>
+<h2 Style="color:blue">Achievements</h2>
+<p>Won first prize in March past in 16th Sports Day in "K.S.R.College of Engineering"</p>
+<h2 Style="color:blue">In-plant Training</h2>
+<p>Undergone a training on “EMBEDDED SYSTEM” in
+Hailstone Technology on June 2015.</p>
+<h2 Style="color:blue">Mini Project</h2>
+<p>Topic :Credit card bill generation<br>
+ Tool used:Eclipse<br>
+ Language:Java<br>
+ Description:It is used to generate a credit card bill.</p>
+<h2 Style="color:blue">Co-Curricular Activities</h2>
+<p><li>Participated Paper presentation in Bannari Amman Institute of Technology</li><br>
+<li>Participated Paper Presentation in SNS College of Engineering</li></p>
+<h2 Style="color:blue">Additional Courses</h2>
+<p><li>Completed C Course conducted in K.S.R.College of Engineering</li><br>
+<li>Completed training on PCB course conducted by K.S.R.College of Engineering</li></p>
+<h2 Style="color:blue">Personal details</h2>
+<p><left>Fathers Name:K.Viswanathan<br>
+         Mothers Name:K.C.Nalini<br>
+        Date of Birth:29.10.1996<br>
+      Languages Known:Tamil,English</left></p>
+<p><left>Place:<br>
+Date:</left></p>
+<p align="right">[SREEDEVI]</p>
+</body>
+</html>
+
